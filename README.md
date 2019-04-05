@@ -2,7 +2,8 @@ Dino_learn
 ==========
 a hopefully fully self learning dinosaur game player
 first project on machine learning  
-still working on actual learning stuff  
+still working on actual learning stuff    
+if anyone wants to contribute to this project, feels free to submit pull requests  
 
 Currently finished
 ==================
@@ -13,8 +14,6 @@ Still needs to be done
 ======================
 * speed up image processing: use cython or other libary to accelarate  
 * create self learning ai to master the game: use tensorflow or neat-python  
-
-if anyone wants to contribute to this project, feels free to submit pull requests  
 
 Special thanks  
 ==============
