@@ -6,13 +6,13 @@ still working on actual learning stuff
 
 Currently finished
 ==================
-*game api: get game field, dinosaur location, all obstacle location  
-*simple hard coded rule: currently able to get to 4000 if lucky  
+* game api: get game field, dinosaur location, all obstacle location  
+* simple hard coded rule: currently able to get to 4000 if lucky  
 
 Still needs to be done  
 ======================
-*speed up image processing: use cython or other libary to accelarate  
-*create self learning ai to master the game: use tensorflow or neat-python  
+* speed up image processing: use cython or other libary to accelarate  
+* create self learning ai to master the game: use tensorflow or neat-python  
 
 if anyone wants to contribute to this project, feels free to submit pull requests  
 
