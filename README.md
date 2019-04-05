@@ -1,9 +1,13 @@
 Dino_learn  
 ==========
-a hopefully fully self learning dinosaur game player.
+a hopefully fully self learning dinosaur game player.  
 first project on machine learning.  
 still working on actual learning stuff.    
 if anyone wants to contribute to this project, feels free to submit pull requests.  
+
+Usage
+=====
+still editing...
 
 Currently finished
 ==================
