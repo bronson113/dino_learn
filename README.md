@@ -1,9 +1,9 @@
 Dino_learn  
 ==========
-a hopefully fully self learning dinosaur game player
-first project on machine learning  
-still working on actual learning stuff    
-if anyone wants to contribute to this project, feels free to submit pull requests  
+a hopefully fully self learning dinosaur game player.
+first project on machine learning.  
+still working on actual learning stuff.    
+if anyone wants to contribute to this project, feels free to submit pull requests.  
 
 Currently finished
 ==================
@@ -17,5 +17,5 @@ Still needs to be done
 
 Special thanks  
 ==============
-thanks [sentdex's video](https://www.youtube.com/user/sentdex) for inspiring me to start this project, make sure to check out his video on gta auto driving car  
-thanks [pauloalves86's](https://github.com/pauloalves86/go_dino) great example code for me to follow  
+thanks [sentdex's video](https://www.youtube.com/user/sentdex) for inspiring me to start this project, make sure to check out his video on gta auto driving car.  
+thanks [pauloalves86's](https://github.com/pauloalves86/go_dino) great example code for me to follow.  
