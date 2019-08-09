@@ -21,5 +21,5 @@ Still needs to be done
 
 Special thanks  
 ==============
-thanks [sentdex's video](https://www.youtube.com/user/sentdex) for inspiring me to start this project, make sure to check out his video on gta auto driving car.  
+thanks [sentdex's video](https://www.youtube.com/user/sentdex) for inspiring me to start this project, make sure to check out his video on GTA auto driving car.  
 thanks [pauloalves86's](https://github.com/pauloalves86/go_dino) great example code for me to follow.  
